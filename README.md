@@ -1,5 +1,7 @@
 # LWET
 
+中文用户可直接跳转到：[LWET 中文说明](#lwet-中文说明)
+
 LWET stands for **Let's Write Everything Together**.
 
 It is a collaborative branching-story platform where readers and writers can build stories together. A story does not need to follow one fixed path: each chapter can continue in different directions, and different writers can create new branches from the same starting point.
@@ -25,7 +27,9 @@ The platform is still under active development. Some features may change as we i
 - Production: <https://lwet.cc>
 - Staging / testing site: <https://staging.lwet.cc>
 
-The staging site may contain experimental features and test data. Use the production site for normal reading and writing.
+The staging site may contain experimental features and test data. Its data is separate from the production site, so accounts, stories, reading progress, and submissions on staging do not sync with <https://lwet.cc>.
+
+Regular users may use staging to try new features or reproduce issues safely. Use the production site for normal long-term reading and writing.
 
 ## How To Report Bugs Or Suggest Improvements
 
@@ -83,7 +87,9 @@ LWET 适合喜欢协作写作、分支小说、共同世界观创作、多语言
 - 正式站：<https://lwet.cc>
 - 测试站：<https://staging.lwet.cc>
 
-测试站可能包含实验功能和测试数据。日常阅读和写作请使用正式站。
+测试站可能包含实验功能和测试数据。测试站和正式站的数据不互通，因此测试站里的账号、故事、阅读进度和提交内容不会同步到 <https://lwet.cc>。
+
+普通用户也可以使用测试站来体验新功能或复现问题。长期阅读和正式创作请使用正式站。
 
 ## 如何提交错误或建议
 
